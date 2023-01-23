@@ -2,7 +2,7 @@
 
 **COPY the ExchangeRate.sol code to Remix**
 
-Some values are hardcoded after checking the pool parameters such as amp factor, balances and total supply.
+Some values are hardcoded after checking the [pool](https://etherscan.io/address/0x178E029173417b1F9C8bC16DCeC6f697bC323746#readContract) parameters such as amp factor, balances and total supply.
 3 functions you'll see callable in Remix all of them simulates how much 10K BPT would be single sidedly removen to underlyings:
 
 ###
